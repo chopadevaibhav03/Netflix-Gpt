@@ -1,6 +1,9 @@
 # netflix+gpt
 - craate-react-app
 - configured tailwind.css
+- Header.
+- Login form.
+- Sign up form
 
 # Featurs.
 - Login/Signup page
